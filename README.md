@@ -1,4 +1,4 @@
-# EurostatCrime2021 Dataset Analysis 📊
+# Eurostat Crime 2021 Dataset Analysis 📊
 
 This project entails a comprehensive analysis of the EurostatCrime2021 dataset, which records offences by offence category in 41 European countries in 2021. The tasks involved in this analysis are outlined below:
 
