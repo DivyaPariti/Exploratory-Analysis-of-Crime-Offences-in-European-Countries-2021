@@ -21,11 +21,15 @@ This project entails a comprehensive analysis of the EurostatCrime2021 dataset, 
 - **Plot 1: Sexual Exploitation Data** 🚺🚹
   - Generated a bar graph comparing sexual exploitation data across countries.
   - Austria exhibited the highest rates, while Greece had the lowest.
+ 
+ ![Sexual Exploitation Data](a1plot2.png)
+
+
   
 - **Plot 2: Sexual Assault Rates** 📉
   - Created a bar plot highlighting countries with the highest sexual assault rates.
   - Finland showed the highest rates, whereas Greece had the lowest.
-  - 
+  
 ### License:
 This project is licensed under the [MIT License](LICENSE), allowing for free use, modification, and distribution of the codebase. Refer to the LICENSE file for more details. 📜
 
