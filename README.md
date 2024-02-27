@@ -16,20 +16,26 @@ This project entails a comprehensive analysis of the EurostatCrime2021 dataset, 
 2. **Proportion of Crimes:** 🔍 A table displaying the countries and the proportion of overall crimes due to acts against computer systems was generated, sorted in ascending order.
 3. **Relationship Visualization:** 📈 A plot showing the relationship between robbery and unlawful acts involving controlled drugs or precursors was created, with improved aesthetics.
 
+![a1plot1](https://github.com/DivyaPariti/Exploratory-Analysis-of-Crime-Offences-in-European-Countries-2021/assets/65856784/37cbe340-b49f-4771-af81-6611876d87a3)
+
+
 ### Task 3: Creativity
 
 - **Plot 1: Sexual Exploitation Data** 🚺🚹
   - Generated a bar graph comparing sexual exploitation data across countries.
   - Austria exhibited the highest rates, while Greece had the lowest.
- 
- ![Sexual Exploitation Data](a1plot2.png)
 
 
-  
+  ![Sexual Exploitation Data](https://github.com/DivyaPariti/Exploratory-Analysis-of-Crime-Offences-in-European-Countries-2021/assets/65856784/1a3b4e36-28c2-4464-954a-2d6358ac2ea1)
+
 - **Plot 2: Sexual Assault Rates** 📉
   - Created a bar plot highlighting countries with the highest sexual assault rates.
   - Finland showed the highest rates, whereas Greece had the lowest.
-  
+
+
+  ![Sexual Assault Rates](https://github.com/DivyaPariti/Exploratory-Analysis-of-Crime-Offences-in-European-Countries-2021/assets/65856784/608b804f-fde2-4b63-a01d-511f768c7c0b)
+
+
 ### License:
 This project is licensed under the [MIT License](LICENSE), allowing for free use, modification, and distribution of the codebase. Refer to the LICENSE file for more details. 📜
 
